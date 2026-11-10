@@ -1,6 +1,6 @@
-# happy monthsary baby 🌸
+# flower 🌸
 
-An animated **ASCII lily bouquet** drawn entirely with characters on a `<canvas>` —
+An animated **flower bouquet** drawn entirely with ASCII characters on a `<canvas>` —
 stems grow from the ground, leaves unfurl, lilies bloom in 3D, fireflies drift up,
 and a glowing message appears above the flowers.
 
@@ -8,7 +8,7 @@ and a glowing message appears above the flowers.
 
 | Page | Description |
 | --- | --- |
-| [`/`](https://cesspanganiban211-spec.github.io/iloveyouu-babyy/) | ASCII Lily Bouquet with the *happy monthsary baby* message |
+| [`/`](https://cesspanganiban211-spec.github.io/iloveyouu-babyy/) | **flower** — the ASCII bouquet with the *happy monthsary baby* message |
 | [`/letter-curtain.html`](https://cesspanganiban211-spec.github.io/iloveyouu-babyy/letter-curtain.html) | Letter curtain animation |
 | [`/love-code-surprise.html`](https://cesspanganiban211-spec.github.io/iloveyouu-babyy/love-code-surprise.html) | Love code surprise |
 
